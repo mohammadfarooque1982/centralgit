@@ -1,7 +1,6 @@
 <?php
-$a = farooque";
-$a .= "siddiqui";
-$a .= "abdul";
-$a .= "razzak";
-$b = $a;
-echo $b;
+$a = "<h1>Mohammad";
+$a .= " Farooque";
+$a .= " Abdul Razzak</h1>";
+echo $a;
+?>

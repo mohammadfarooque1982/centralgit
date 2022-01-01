@@ -1,5 +1,7 @@
 <?php
-$a=farooque
-$a .= siddiqui
-$b = $a
+$a = farooque";
+$a .= "siddiqui";
+$a .= "abdul";
+$a .= "razzak";
+$b = $a;
 echo $b;
